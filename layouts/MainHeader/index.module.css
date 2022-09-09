@@ -1,0 +1,26 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #FFFFFF;
+  box-shadow: inset 0px -1px 0px #f0f0f0;
+  padding: 13px 0;
+  text-align: center;
+} 
+
+.title {
+  color: rgba(0, 0, 0, 0.45);
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+}
+.name {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+}

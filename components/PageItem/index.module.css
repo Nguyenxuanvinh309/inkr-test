@@ -1,0 +1,11 @@
+.wrapper {
+  height: 58.8rem;
+  background: white;
+  margin-bottom: 13px;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,6 @@
+.container {
+  width: 42.65vw;
+  height: calc(100vh - 48px);
+  margin: auto;
+  margin-top: 48px;
+}
